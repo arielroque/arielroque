@@ -3,10 +3,13 @@
   
 ### Hi 👋, I'm Ariel Roque 
 
+[![GitHub Badge](https://img.shields.io/github/followers/arielroque?style=social)](https://github.com/arielroque)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ariel-roque)
 [![email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:ariel.roqueluz42@gmail.com)
-
-I'm developer and computer science student. In my free time, I love learning more about mobile developing, confidential computing and automating repetitive tasks. 
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Ariel-Roque)
+  
+  
+I'm developer and computer science student. In my free time, I love learning more about mobile developing,IoT,confidential computing and automating repetitive tasks. The best part of all this is combining that knowledge and building things that help people.
 
 #### Blog posts
 
